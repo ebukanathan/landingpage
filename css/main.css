@@ -778,11 +778,6 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-yellow-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(250 204 21 / var(--tw-bg-opacity));
-}
-
 .bg-brightRedSupLight {
   --tw-bg-opacity: 1;
   background-color: hsl(12 88% 95% / var(--tw-bg-opacity));
@@ -898,14 +893,14 @@ video {
   color: hsl(227 12% 61% / var(--tw-text-opacity));
 }
 
-.text-darkBlue {
-  --tw-text-opacity: 1;
-  color: hsl(228 39% 23% / var(--tw-text-opacity));
-}
-
 .text-brightRed {
   --tw-text-opacity: 1;
   color: hsl(12 88% 59% / var(--tw-text-opacity));
+}
+
+.text-darkBlue {
+  --tw-text-opacity: 1;
+  color: hsl(228 39% 23% / var(--tw-text-opacity));
 }
 
 .drop-shadow-md {
